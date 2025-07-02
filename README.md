@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🛠️ Currently building a **Minecraft Challenge System** — pushing the limits of Minecraft gameplay!
-- 🗝️ Developer of the Project **All and Only Chests** — inspired by [BastiGHG](https://youtube.com/@bastighg)
+- 🗝️ Creator of the Minecraft-Project **All and Only Chests** (Fanmade) — inspired by [BastiGHG](https://youtube.com/@bastighg)
 - ⚒️ Developer of SMP/event plugins for Minecraft servers
 - 💻 Skilled in **Java**, with extra knowledge in **HTML**, **CSS**, and **JavaScript**
 - 🎸 Guitar player, motorcycle fan (especially the **Kawasaki Ninja 650**), and always happy to help others
@@ -43,7 +43,7 @@
   _A feature-packed system to add creative challenges to Minecraft worlds!_
 
 - **All and Only Chests**  
-  _A unique Minecraft experience inspired by Bastighg’s videos. Try to play with only chests!_
+  _A unique Minecraft experience inspired by Bastighg’s videos. Collect all Items from Chests, which spawn in Structures!_
 
 - **SMP/Events Plugin**  
   _Custom plugins to make every SMP session more memorable._
