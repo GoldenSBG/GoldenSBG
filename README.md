@@ -17,10 +17,6 @@
 ## 💻 Tech Stack
 
 **Operating Systems**  
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
-
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="macOS" width="40"/>
@@ -37,10 +33,12 @@
 </p>
 
 **Programming Languages**  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40"/>
+</p>
 
 ---
 
