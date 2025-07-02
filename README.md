@@ -35,6 +35,7 @@
 **Programming Languages**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40"/>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40"/>
 </p>
