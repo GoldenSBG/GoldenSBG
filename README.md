@@ -45,22 +45,11 @@
 
 ## 🕹️ Favorite Projects
 
-- **Minecraft Challenge System**  
-  _A feature-packed system to add creative challenges to Minecraft worlds!_
-
 - **All and Only Chests**  
   _A unique Minecraft experience inspired by Bastighg’s videos. Collect all Items from Chests, which spawn in Structures!_
 
-- **SMP/Events Plugin**  
+- **FluxSMP Plugin**  
   _Custom plugins to make every SMP session more memorable._
-
----
-
-## 🌱 Fun Facts
-
-- Used to create content, but now focused on coding and learning
-- Always ready to share knowledge and support fellow devs
-- Passionate about motorcycles and music
 
 ---
 
