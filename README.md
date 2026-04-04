@@ -6,11 +6,10 @@
 
 ## 🚀 About Me
 
-- 🛠️ Currently building a **Minecraft Challenge System** — pushing the limits of Minecraft gameplay!
 - 🗝️ Creator of the Minecraft-Project **All and Only Chests** (Fanmade) — inspired by [BastiGHG](https://youtube.com/@bastighg)
-- ⚒️ Developer of SMP/event plugins for Minecraft servers
+- ⚒️ Developer of various plugins for Minecraft servers
 - 💻 Skilled in **Java**, with extra knowledge in **HTML**, **CSS**, and **JavaScript**
-- 🎸 Guitar player, motorcycle fan (especially the **Kawasaki Ninja 650**), and always happy to help others
+- 🎸 Guitar player, motorcycle fan (**Kawasaki Ninja ZX-6R**, **BMW S1000RR**), and always happy to help others
 
 ---
 
