@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b1edd670-6aa9-419e-a2c9-d5d92888647b" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b60cf944-996b-4b2f-96fa-e815b36d7c08" /># 👋 Hi, I’m PaddyNinja_!
+# 👋 Hi, I’m PaddyNinja_!
 
 🎓 **Student • Java Developer • Minecraft & Motorcycles Enthusiast**
 
