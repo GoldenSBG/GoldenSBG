@@ -8,10 +8,11 @@
 
 - ⚒️ Developer of various plugins for Minecraft servers
 - 💻 Skilled in **Java**, with extra knowledge in **HTML**, **CSS**, and **JavaScript**
+- 🤖 Deep interest in **Artificial Intelligence**: Experience in building and training neural networks from scratch, prompt engineering, and mastering advanced AI workflows
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tools
 
 **Operating Systems**  
 <p align="center">
@@ -19,10 +20,11 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="macOS" width="40"/>
 </p>
 
-
-**Programs**  
+**Programs & IDEs**  
 <p align="center">
   <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" />
+  <img src="https://skillicons.dev/icons?i=clion" alt="CLion" width="40" />
+  <img src="https://skillicons.dev/icons?i=rider" alt="Rider" width="40" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" />
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" />
@@ -37,6 +39,12 @@
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40"/>
 </p>
 
+**AI & Machine Learning**  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/chatgpt.png" alt="ChatGPT" width="40" />
+  <img src="https://skillicons.dev/icons?i=claude" alt="Claude" width="40" />
+  <img src="https://skillicons.dev/icons?i=gemini" alt="Gemini" width="40" />
+</p>
 
 ---
 
