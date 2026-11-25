@@ -12,7 +12,7 @@
 
 ---
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 **Operating Systems**  
 <p align="center">
