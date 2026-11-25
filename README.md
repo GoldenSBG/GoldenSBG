@@ -42,8 +42,9 @@
 **AI & Machine Learning**  
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/chatgpt.png" alt="ChatGPT" width="40" />
-  <img src="https://skillicons.dev/icons?i=claude" alt="Claude" width="40" />
-  <img src="https://skillicons.dev/icons?i=gemini" alt="Gemini" width="40" />
+<img src="https://vercel.app" alt="Claude" width="40" />
+<img src="https://vercel.app" alt="Gemini" width="40" />
+
 </p>
 
 ---
