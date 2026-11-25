@@ -1,14 +1,14 @@
-# 👋 Hi, I’m PaddyNinja_!
+# Hi, I’m PaddyNinja_!
 
 🎓 **Student • Java Developer • Minecraft & Motorcycles Enthusiast**
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- ⚒️ Developer of various plugins for Minecraft servers
-- 💻 Skilled in **Java**, with extra knowledge in **HTML**, **CSS**, and **JavaScript**
-- 🤖 Deep interest in **Artificial Intelligence**: Experience in building and training neural networks from scratch, prompt engineering, and mastering advanced AI workflows
+- Developer of various plugins for Minecraft servers
+- Skilled in **Java**, with extra knowledge in **HTML**, **CSS**, and **JavaScript**
+- Deep interest in **Artificial Intelligence**: Experience in building and training neural networks from scratch, prompt engineering, and mastering advanced AI workflows
 
 ---
 
@@ -50,7 +50,10 @@
 
 ---
 
-## 🕹️ Favorite Projects
+## Favorite Projects
+
+- **LunarAxis Game Engine**  
+  _My Matura thesis project: A modular 42-class 2D Java game library built as a powerful alternative for TigerJython, featuring custom physics, animation, collision systems, and fixed timestep game loops._
 
 - **All and Only Chests**  
   _A unique Minecraft experience inspired by Bastighg’s videos. Collect all Items from Chests, which spawn in Structures!_
@@ -60,5 +63,5 @@
 
 ---
 
-Thanks for stopping by! 🚦  
+Thanks for stopping by!
 Feel free to connect, collaborate, or ask for help anytime!
