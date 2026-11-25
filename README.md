@@ -1,12 +1,11 @@
-# 👋 Hi, I’m GoldenSBG!
+# 👋 Hi, I’m PaddyNinja_!
 
-🎓 **Student • Java Developer • Minecraft Enthusiast**
+🎓 **Student • Java Developer • Minecraft & Motorcycles Enthusiast**
 
 ---
 
 ## 🚀 About Me
 
-- 🗝️ Creator of the Minecraft-Project **All and Only Chests** (Fanmade) — inspired by [BastiGHG](https://youtube.com/@bastighg)
 - ⚒️ Developer of various plugins for Minecraft servers
 - 💻 Skilled in **Java**, with extra knowledge in **HTML**, **CSS**, and **JavaScript**
 
