@@ -17,7 +17,6 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="macOS" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40"/>
 </p>
 
 
