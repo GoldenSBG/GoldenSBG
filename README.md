@@ -42,7 +42,7 @@
 **AI & Machine Learning**  
 <p align="center">
   <img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" width="40" />
-  <img src="https://img.icons8.com/color/48/claude-ai.png" alt="Claude" width="40" />
+  <img src="https://icons8.com/icon/t2I0LBZdCxZT/claude-ai" alt="Claude" width="40" />
   <img src="https://img.icons8.com/color/48/google-gemini.png" alt="Gemini" width="40" />
 </p>
 
