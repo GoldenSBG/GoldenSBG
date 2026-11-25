@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" width="40" />
   <img src="https://img.icons8.com/?size=100&id=t2I0LBZdCxZT&format=png&color=000000" alt="Claude" width="40" />
-  <img src="https://icons8.com" alt="Gemini" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=SSk2n0SG2OWC&format=png&color=000000" alt="Gemini" width="40" />
   
 </p>
 
