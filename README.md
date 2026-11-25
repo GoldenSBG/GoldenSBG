@@ -8,7 +8,7 @@
 
 - Developer of various plugins for Minecraft servers
 - Skilled in **Java**, with extra knowledge in **HTML**, **CSS**, and **JavaScript**
-- Deep interest in **Artificial Intelligence**: Experience in building and training neural networks from scratch, prompt engineering, and mastering advanced AI workflows
+- Strong interest in **Artificial Intelligence**, including AI-assisted software development, prompt engineering, and practical AI workflows.
 
 ---
 
@@ -52,8 +52,9 @@
 
 ## Favorite Projects
 
-- **LunarAxis Game Engine**  
-  _My Matura thesis project: A modular 42-class 2D Java game library built as a powerful alternative for TigerJython, featuring custom physics, animation, collision systems, and fixed timestep game loops._
+
+- **LunarAxis – Java 2D Game Library**  
+  _My Swiss Matura thesis project: A modular Java-based 2D game library developed for TigerJython as an educational alternative to JGameGrid (GameGrid). Version 1.2.8 includes 92 Java source files across 22 packages, featuring a fixed-timestep game loop, 2D camera, physics and collision utilities, sprite animations, scene management, particle effects, audio, UI components, and level loading._
 
 - **All and Only Chests**  
   _A unique Minecraft experience inspired by Bastighg’s videos. Collect all Items from Chests, which spawn in Structures!_
