@@ -9,7 +9,6 @@
 - 🗝️ Creator of the Minecraft-Project **All and Only Chests** (Fanmade) — inspired by [BastiGHG](https://youtube.com/@bastighg)
 - ⚒️ Developer of various plugins for Minecraft servers
 - 💻 Skilled in **Java**, with extra knowledge in **HTML**, **CSS**, and **JavaScript**
-- 🎸 Guitar player, motorcycle fan (**Kawasaki Ninja ZX-6R**, **BMW S1000RR**), and always happy to help others
 
 ---
 
