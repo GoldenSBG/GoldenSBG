@@ -1,4 +1,4 @@
-# 👋 Hi, I’m PaddyNinja_!
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/97f3c707-81a7-4a47-b5d6-8c5e36ef7270" /># 👋 Hi, I’m PaddyNinja_!
 
 🎓 **Student • Java Developer • Minecraft & Motorcycles Enthusiast**
 
@@ -42,7 +42,7 @@
 **AI & Machine Learning**  
 <p align="center">
   <img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" width="40" />
-  <img src="https://icons8.com/icon/t2I0LBZdCxZT/claude-ai" alt="Claude" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=t2I0LBZdCxZT&format=png&color=000000" alt="Claude" width="40" />
   <img src="https://img.icons8.com/color/48/google-gemini.png" alt="Gemini" width="40" />
 </p>
 
